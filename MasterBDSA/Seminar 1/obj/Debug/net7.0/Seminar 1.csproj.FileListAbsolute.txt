@@ -1,0 +1,80 @@
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\appsettings.Development.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\appsettings.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Seminar 1.staticwebassets.runtime.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Seminar 1.exe
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Seminar 1.deps.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Seminar 1.runtimeconfig.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Seminar 1.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Seminar 1.pdb
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Azure.Core.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Azure.Identity.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Humanizer.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.CodeDom.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.csproj.AssemblyReference.cache
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.AssemblyInfoInputs.cache
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.AssemblyInfo.cs
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.csproj.CoreCompileInputs.cache
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.MvcApplicationPartsAssemblyInfo.cache
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.RazorAssemblyInfo.cache
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.RazorAssemblyInfo.cs
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\staticwebassets\msbuild.Seminar 1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\staticwebassets\msbuild.build.Seminar 1.props
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Seminar 1.props
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Seminar 1.props
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\staticwebassets.build.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\staticwebassets.development.json
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\scopedcss\bundle\Seminar 1.styles.css
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\scopedcss\projectbundle\Seminar 1.bundle.scp.css
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.csproj.CopyComplete
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\refint\Seminar 1.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.pdb
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\Seminar 1.genruntimeconfig.cache
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\obj\Debug\net7.0\ref\Seminar 1.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Data.OleDb.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Data.OleDb.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.PerformanceCounter.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Andreea\Master\Anul2\Semestrul1\AE\MasterBDSA-main\MasterBDSA\Seminar 1\bin\Debug\net7.0\PayPal.dll
